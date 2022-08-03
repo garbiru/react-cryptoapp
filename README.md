@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# CryptoAPP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was recreated following a tutorial on youtube 👇. <br/>
+https://www.youtube.com/watch?v=GDa8kZLNhJ4&ab_channel=JavaScriptMastery
+
+<img src="https://cdn.discordapp.com/attachments/1003049455181910017/1004405063139213355/unknown.png" />
+<img src="https://cdn.discordapp.com/attachments/1003049455181910017/1004405313140699227/unknown.png" />
+
+It's not completed because of RapidAPI requires a premium plan to get access to the Exchanges Endpoint.
+
+## Technologies used
+
+- Reactjs
+- Ant Design (CSS Library)
+- Redux Toolkit (used for API calls and state management)
+- ChartJS (used for creating a linear chart)
+- API: Coinranking from RapidAPI
 
 ## Available Scripts
 
